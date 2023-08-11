@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! 👋
 
-First of all, I would like to thank Emre Güçlü for making me aware of being able to establish this site.
+First of all, I would like to thank Emre Güçlü for making me aware of being able to establish this site. (I also stole the copy code part from him 😁 )
 
 This is my post about my experiences working as a Platform Engineer at LC Waikiki. LC Waikiki is one of the leading retail brands in Turkey, and working in their technology department has been an exciting journey for me.
 
